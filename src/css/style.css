@@ -55,16 +55,18 @@ footer{
 @media (min-width: 700px) {
     #container{
         flex-direction: column;
+        width: 100%;
     }
     #containerAside{
         display: flex;
-        ;
+        width: 100%;
     }
     #conteudo{
         flex: 2;
-        ;
+        width: 100%;
     }
     aside{
         flex: 1;
+        width: 100%;
     }   
 }
